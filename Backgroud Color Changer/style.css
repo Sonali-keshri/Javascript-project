@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: lavenderblush; */
+}
+.maindiv{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    margin-bottom: 10px;
+}
+.item2{
+    padding: 3px;
+}
